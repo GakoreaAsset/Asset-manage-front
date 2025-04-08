@@ -1,3 +1,13 @@
+# React npm 설치목록
+
+```
+npm i react-router-dom               // 리액트 라우터 돔 컴포넌트 변환용
+npm i axios                          // 엑시오스 = ajax
+npm i react-js-pagination            // 페이지네이션 게시판에서 사용
+npm i antd                           // react 모달창
+npm i tailwindcss @tailwindcss/vite  // 테일윈드 CSS
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
