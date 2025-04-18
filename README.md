@@ -1,6 +1,8 @@
 # React npm 설치목록
 
 ```
+npx create-react-app 폴더명          // 리액트 폴더 만드는 명령어
+
 npm i react-router-dom               // 리액트 라우터 돔 컴포넌트 변환용
 npm i axios                          // 엑시오스 = ajax
 npm i react-js-pagination            // 페이지네이션 게시판에서 사용
